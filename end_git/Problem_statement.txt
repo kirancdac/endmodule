@@ -1,0 +1,28 @@
+Contoso is a multinational company has their 12 offices all over the world.
+They require to build and host website for all employee to access Corporate Customers Accounting related information.
+Company wanted to bulid and host this information system in public cloud platform Google Cloud Platform or AWS
+
+
+Problem Defination:
+
+Company Name :Contoso 
+number of office:12
+
+Project name:Corporate Customers Accounting
+Hosted on:Google Cloud Platform or AWS
+
+Functional Requirement
+
+1.to host website on public cloud platfrom Google Cloud Platform or Aws
+2.all employees of 12 offices should be able to login
+3.on employee login, the employee should be able to access the corporate customers information
+4.store the data of all employees
+5.store the data of all corporate customers
+6.store the accounting realted information 
+7.resolving the  issues raised by the customer
+
+
+Non Functional Requirement
+
+1.asking customer about feedback
+2.time to time sending emails to customer about new schemes.
